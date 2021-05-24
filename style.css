@@ -1,0 +1,37 @@
+h1{
+    color:darkcyan;
+    border-style:dotted;
+    justify-content:stretch;
+    font-size:2vw;
+}
+.header{
+    background-color:rgb(113, 224, 219);
+    display:flex;
+    justify-content:center;
+}
+.menu{
+    border-style: dotted;
+    border-color:black;
+    border-width:thick;
+    font-size: medium;
+    font-style: italic;
+    display:flex;
+    justify-content: flex-end;
+    font-size: 1vw;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.origami{
+    border-radius: 20px;
+    background-color: azure;
+
+    width:310px;
+    font-family:fantasy;
+}
+.bodyimg{
+    text-align: center;
+    text-decoration:underline;
+}
